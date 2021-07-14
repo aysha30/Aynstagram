@@ -16,6 +16,14 @@ const postSchema = mongoose.Schema({
     },
 });
 
-const PostMessage = mongoose.model('PostMessage', postSchema);
+const PostMessage = mongoose.model('POSTMESSAGE', postSchema);
 
 export default PostMessage;
+
+
+    // comments: [
+    //     {
+    //         text: String,
+    //         user_id: String
+    //     }
+    // ]
