@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Aynstagram
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://user-images.githubusercontent.com/45158487/126010676-47f45946-8f23-4201-8eaf-2627df26bd39.png)
 
-## Available Scripts
+## To get this project in your local system, follow the given steps:
 
-In the project directory, you can run:
+1.  On GitHub, navigate to the [aysha30/Aynstagram](https://github.com/aysha30/Aynstagram) repository.
+2.  In the top-right corner of the page, click Fork.
 
-### `yarn start`
+    ![image](https://user-images.githubusercontent.com/45158487/124381718-9d50c280-dce1-11eb-856e-b363ada6df56.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+3.  On GitHub, navigate to your fork of the Aynstagram repository.
+4.  Above the list of files, click  Code.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+    ![image](https://user-images.githubusercontent.com/45158487/124381787-f28cd400-dce1-11eb-913d-051d3106eb2d.png)
 
-### `yarn test`
+5.  To clone the repository using HTTPS, under "Clone with HTTPS", click . To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click Use SSH, then click . To clone a repository using GitHub CLI, click Use GitHub CLI, then click .
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    ![image](https://user-images.githubusercontent.com/45158487/126010987-84f0ac0d-6055-4072-a788-f490cde23b96.png)
 
-### `yarn build`
+6.  Open Git Bash.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+7. Change the current working directory to the location where you want the cloned directory.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+8. Type `git clone`, and then paste the URL you copied earlier. It will look like this, with your GitHub username instead of `YOUR-USERNAME`:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    #### `$ git clone https://github.com/YOUR-USERNAME/Aynstagram`
 
-### `yarn eject`
+9. Press Enter. Your local clone will be created.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+10. Your local clone is created now. To open the project in you system, first you have to follow the given commands.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    #### `cd Aynstagram`
+    #### `npm install`
+    #### `npm start`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Hola! Your project is now up and running.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
