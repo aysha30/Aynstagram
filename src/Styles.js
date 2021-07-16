@@ -1,18 +1,29 @@
 import { makeStyles } from "@material-ui/core/styles";
 
-export default makeStyles(() => ({
+export default makeStyles((theme) => ({
     appBar: {
-        borderRadius: 15,
-        margin: '30px 0',
         display: 'flex',
         flexDirection: 'row',
         justifyContent: 'center',
         alignItems: 'center',
+        opacity: "50%",
+        backgroundColor: "#4b1b4d",
+        minHeight: 80
     },
     heading: {
-        color: 'rgba(0,183,255, 1)',
+        color: 'white',
+        opacity: "200%"
     },
     image: {
         marginLeft: '15px',
     },
+    
+    content: {
+        marginTop: 80,
+        [theme.breakpoints.down('sm')]: 
+        {
+            flexDirection: "column-reverse",
+        }    
+    }
+    
 }))
