@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/45158487/126010676-47f45946-8f23-4201-8eaf-2627df26bd39.png)
 
+
+
+#### NOTE: To get the backend code switch to server branch.
+
 ## To get this project in your local system, follow the given steps:
 
 1.  On GitHub, navigate to the [aysha30/Aynstagram](https://github.com/aysha30/Aynstagram) repository.
@@ -35,6 +39,4 @@
     #### `npm start`
 
 ### Hola! Your project is now up and running.
-
-#### NOTE: To get the backend code switch to server branch.
 
