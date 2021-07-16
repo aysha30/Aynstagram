@@ -36,3 +36,5 @@
 
 ### Hola! Your project is now up and running.
 
+#### NOTE: To get the backend code switch to server branch.
+
